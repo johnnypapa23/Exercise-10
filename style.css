@@ -1,0 +1,25 @@
+img{
+    width: 800px;
+    border: 8px solid white;
+    margin-top: 100px;
+
+}
+
+.that{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 64px;
+
+}
+
+.avocado{
+    color: white;
+    font-size: 24px;
+
+}
+
+*{
+    text-align: center;
+    background-color: black;
+}
